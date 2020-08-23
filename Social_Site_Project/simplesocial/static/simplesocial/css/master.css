@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  overflow-x:hidden;
+  overflow-y: scroll;
+  background-color: black;
+  color:white;
+}
+
+/* .mycontent{
+  padding-top: 100px;
+  border: 10px solid grey;
+	//overflow: scroll;
+	/* or */
+	/* overflow-x: scroll;
+	overflow-y: scroll; */
+  /* overflow: auto; */
+
+} */

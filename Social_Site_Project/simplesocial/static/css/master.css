@@ -1,0 +1,32 @@
+.mycontent{
+  padding-top: 100px;
+  border: 10px solid grey;
+	overflow: scroll;
+	/* or */
+	/* overflow-x: scroll;
+	overflow-y: scroll; */
+  /* overflow: auto; */
+
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  overflow: scroll;
+  background: #191063;
+  margin: 0;
+}
+
+
+#note {
+  position: absolute;
+  color: rgba(249,241,204,1);
+  left: 0;
+  right: 0;
+  bottom: 20px;
+  margin: auto;
+  text-align: center;
+  user-select: none;
+  font-family: Arial;
+}
